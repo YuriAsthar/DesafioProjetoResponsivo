@@ -1,0 +1,10 @@
+@charset = 'UTF-8';
+
+.marcador{
+	background: #FE9D9D;
+	border: 1px solid yellow;
+}
+.marcador2{
+	background-color: orange;
+	border: 1px solid blue;
+}
